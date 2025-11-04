@@ -1,0 +1,2 @@
+EMNIST Letters Classification using HOG + SVM + LOOCV
+Proyek ini bertujuan untuk mengklasifikasikan huruf tulisan tangan (A–Z) dari dataset EMNIST Letters menggunakan metode Histogram of Oriented Gradients (HOG) sebagai ekstraksi fitur, dan Support Vector Machine (SVM) sebagai model klasifikasi. Evaluasi dilakukan menggunakan Leave-One-Out Cross Validation (LOOCV) untuk mendapatkan hasil yang akurat dan menyeluruh.
